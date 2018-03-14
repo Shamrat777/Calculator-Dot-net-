@@ -1,2 +1,2 @@
-# Calculator-Dot-net(Using C#)
+# Semi Scientific Calculator-Dot-net(Using C#)
 Author: "F.M. Javed mehedi Shamrat"
