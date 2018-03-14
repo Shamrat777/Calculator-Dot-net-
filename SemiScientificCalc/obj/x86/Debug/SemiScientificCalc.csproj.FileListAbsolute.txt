@@ -1,0 +1,25 @@
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\bin\Debug\SemiScientificCalc.exe
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\bin\Debug\SemiScientificCalc.pdb
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.Properties.Resources.resources
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.csproj.GenerateResource.Cache
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.exe
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.pdb
+C:\Users\SQUILLACIUKM\AppData\Local\Temporary Projects\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.SemiScientificCalc.resources
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.exe
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.pdb
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\SemiScientificCalc.exe
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\SemiScientificCalc.pdb
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.SemiScientificCalc.resources
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.Properties.Resources.resources
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.csproj.GenerateResource.Cache
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\SQUILLACIUKM\documents\visual studio 2010\Projects\SemiScientificCalc\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.exe
+C:\Users\user\Desktop\C#\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.pdb
+F:\semester 7\Dot Net\C#\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.exe
+F:\semester 7\Dot Net\C#\SemiScientificCalc\obj\x86\Debug\SemiScientificCalc.pdb
